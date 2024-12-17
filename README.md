@@ -22,6 +22,12 @@ Um clone do Instagram desenvolvido com **Next.js**, **TypeScript**, **Shadcn-UI*
 
 ---
 
+## 🌐 **Demonstração**
+
+Acesse o projeto ao vivo em: [Instagram Clone](https://instagram-gamma-khaki.vercel.app/)
+
+---
+
 ## 🛠️ **Instalação e Uso**
 
 1. **Clone o repositório:**
